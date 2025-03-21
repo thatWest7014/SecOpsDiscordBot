@@ -1,0 +1,22 @@
+{
+  "name": "secopsbot",
+  "version": "1.0.0",
+  "description": "A demo SecOps bot for Discord buitl using Node.js and Discord.js.",
+  "license": "ISC",
+  "author": {
+    "email": "West701497@gmail.com",
+    "name": "thatWest7014",
+    "url": "http://github.com/thatWest7014"
+  },
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --no-warnings deploy-commands.js && node --no-warnings index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.8.3",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  }
+}
