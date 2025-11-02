@@ -1,3 +1,9 @@
+> [!NOTE]
+> Due to me spending more and more time on [Nova](https://github.com/Nirmini/Nova) this repo has been archived.
+
+> [!WARNING]
+> This is an unfinished project that will have missing functionality and bugs. Expect issues.
+
 # Demo SecOps Bot
 ---
 ### This is provided as a simple demo of a SecOps bot for Discord.
